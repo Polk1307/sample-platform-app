@@ -1,0 +1,17 @@
+# Go build artifacts
+worker
+bin/
+
+# Test artifacts
+*.test
+coverage.out
+
+# Local environment files
+.env
+.env.local
+
+# OS/editor files
+.DS_Store
+*.swp
+# Local assistant/editor metadata
+.codeassistant/
